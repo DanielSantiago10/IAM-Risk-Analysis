@@ -11,7 +11,7 @@ This project focuses on the **Principle of Least Privilege (PoLP)**. By granular
 * **Cross-Functional Permissioning:** Balancing access for HR (Employee Data), Clinicians (Patient Data), and Admins (System Logs).
 
 ## 🔍 Visual Proof of Concept
-![RBAC Matrix Chart](images/RBAC-Matrix.png)
+![RBAC Matrix Chart](https://github.com/DanielSantiago10/IAM-Risk-Analysis/blob/main/01_Access_Control_IAM/images/RBAC%20Matrix.png)
 *Above: A screenshot of the finalized permission matrix showing the distribution of access across different organizational tiers.*
 
 ## 💡 Technical Deep Dive: Preventing Lateral Movement
