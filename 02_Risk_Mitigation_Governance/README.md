@@ -8,7 +8,7 @@ This project involved a comprehensive risk assessment and high-level security au
 
 I advocated for a fundamental shift from a **reactive** to a **proactive** mindset to "beat the enemy to the punch". By identifying vulnerabilities before exploitation, I developed a mitigation roadmap based on the principle of **Layering**.
 
-### **[PLACE SCREENSHOT 1 HERE]**
+### **![ProactiveMindSet](https://github.com/DanielSantiago10/IAM-Risk-Analysis/blob/main/02_Risk_Mitigation_Governance/images/Proactive%20Mindset.png)**
 
 > **Caption:** *Strategic analysis advocating for a proactive security posture and timely system hardening.*
 
@@ -44,7 +44,7 @@ I established a high-priority checklist to reduce the organization's "Trust Surf
 
 
 
-### **[PLACE SCREENSHOT 2 HERE]**
+### **![Security CheckList ](https://github.com/DanielSantiago10/IAM-Risk-Analysis/blob/main/02_Risk_Mitigation_Governance/images/Security%20Checklist.png)**
 
 > **Caption:** *Comprehensive 10-point security enforcement framework focusing on technical, physical, and administrative controls.*
 
